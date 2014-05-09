@@ -1,0 +1,4 @@
+title	username	password	URL/Location
+rebilly.com --> 'love' &service	myusername@something.com	&my-crazy-password	https://www.rebilly.com/site/login/?x=12&y=23
+eft.gov	4343	1212	https://www.eft.gov/eftps/login/loginInitial
+eft.gov		1#4$5%#T	https://www.eft.gov/eftps/login/createPassword
