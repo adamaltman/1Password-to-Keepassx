@@ -75,11 +75,14 @@ Feel free to contribute if you want to improve this tool.
 Built With
 ----------
 
-1Password - Version 3.8.21 (build 32009)
-KeePassX - Version 0.4.3
-Mac OSX - 10.7.5
+* 1Password - Version 3.8.21 (build 32009)
+* KeePassX - Version 0.4.3
+* Mac OSX - 10.7.5
+
 
 Requirements
-____________
+___________
 
-PHP 5.3+ (built on 5.3.28)
+
+* PHP 5.3+ (built on 5.3.28)
+* Common sense
