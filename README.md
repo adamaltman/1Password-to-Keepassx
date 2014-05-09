@@ -1,7 +1,7 @@
-1Password-to-Keepassx
+1Password-to-KeePassX
 =====================
 
-Convert 1Password data to KeepassX XML format for easy import.  Note, KeePassX cannot house all of your 1Password data, or at least not with the same structure as 1Password.  KeePassX basically has:
+Convert 1Password data to KeePassX XML format for easy import.  Note, KeePassX cannot house all of your 1Password data, or at least not with the same structure as 1Password.  KeePassX basically has:
 
 * Groups, which have a title and an icon.
 * Entries, which have a title, username, password, url, comment, icon, creation timestamp, lastaccess timestamp, lastmod timestamp, expire timestamp (or never).
