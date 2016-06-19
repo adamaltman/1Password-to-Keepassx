@@ -63,10 +63,11 @@ foreach ($source as $line) {
         }
     } else {
         $entry = explode("\t", $line);
-        $title = htmlspecialchars($entry[0]);
-        $username = htmlspecialchars($entry[1]);
-        $password = htmlspecialchars($entry[2]);
-        $url = htmlspecialchars($entry[3]);
+        $password = htmlspecialchars($entry[1]);
+        $title = htmlspecialchars($entry[2]);
+        $delete = htmlspecialchars($delete[3]);
+        $url = htmlspecialchars($entry[4]);
+        $username = htmlspecialchars($entry[5]);
         echo "     <entry>\n";
         echo "       <title>$title</title>\n";
         echo "       <username>$username</username>\n";
